@@ -22,12 +22,24 @@ We leverage recent advances regarding GAN training in limited data regimes to **
 </table>
 
 ## Generating Synthetic Defect Images with StyleGAN2-ADA
+### Visualizing Truncation Traversals
 
 <table>
   <tr>
     <td><img src="Figures/Gifs/introsys1024_1.gif" width=270></td>
-    <td><img src="results/see-q-product.jpg" width=270></td>
-    <td><img src="results/gluesim_demo2.gif" width=270></td>
+    <td><img src="Figures/Gifs/truncation-traversal-seed3845-start-1.0-stop3.0.gif" width=270></td>
+    <td><img src="Figures/Gifs/truncation-traversal-seed55832-start-1.0-stop3.0.gif" width=270></td>
+  </tr>
+</table>
+
+## Exploring the latent space with GANSpace
+### Visualizing the effect of random seeds with different truncation and scale values
+
+<table>
+  <tr>
+    <td><img src="Figures/Movies/ganspace1.mp4" width=270></td>
+    <td><img src="Figures/Movies/ganspace2.mp4" width=270></td>
+    <td><img src="Figures/Movies/ganspace3.mp4" width=270></td>
   </tr>
 </table>
 
