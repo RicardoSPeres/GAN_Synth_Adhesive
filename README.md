@@ -10,7 +10,7 @@ We leverage recent advances regarding GAN training in limited data regimes to **
 
 <table>
   <tr>
-    <td><img src="Figures/gifs/introsys1024_1.gif" width=270></td>
+    <td><img src="Figures/Gifs/introsys1024_1.gif" width=270></td>
     <td><img src="results/see-q-product.jpg" width=270></td>
     <td><img src="results/gluesim_demo2.gif" width=270></td>
   </tr>
