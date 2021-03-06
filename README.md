@@ -21,8 +21,8 @@ We leverage recent advances regarding GAN training in limited data regimes to **
   </tr>
 </table>
 
-## Generating Synthetic Defect Images with StyleGAN2-ADA
-### Visualizing Truncation Traversals
+## Generating synthetic defect images with StyleGAN2-ADA
+### Visualizing truncation traversals
 
 In this case the seeds used were 3845 and 55832, truncation values between -1.0 and 3.0 with increments of 0.05. 
 
