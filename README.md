@@ -44,54 +44,14 @@ In this case the seeds used were 3845 and 55832, truncation values between -1.0 
   </tr>
 </table>
 
-## Comparing Results from Training with Real, Synthetic and Augmented Datasets
+## Comparing defect detection results with YOLOv4-Tiny models trained on real and augmented datasets
 
 <table>
-  <tr>
-    <td>Synthetic</td>
+  <tr>    
     <td>Real</td>    
     <td>Augmented</td>
   </tr>
-  <tr>
-    <td><img src="results/yolov4_s/result_test_1.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_1.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_1.jpg" width=270></td>
-  </tr>  
-  <tr>
-    <td><img src="results/yolov4_s/result_test_5.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_5.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_5.jpg" width=270></td>
-  </tr> 
-  <tr>
-    <td><img src="results/yolov4_s/result_test_6.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_6.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_6.jpg" width=270></td>
-  </tr> 
-  <tr>
-    <td><img src="results/yolov4_s/result_test_7.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_7.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_7.jpg" width=270></td>
-  </tr> 
-  <tr>
-    <td><img src="results/yolov4_s/result_test_9.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_9.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_9.jpg" width=270></td>
-  </tr> 
-  <tr>
-    <td><img src="results/yolov4_s/result_test_19.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_19.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_19.jpg" width=270></td>
-  </tr> 
-  <tr>
-    <td><img src="results/yolov4_s/result_test_20.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_20.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_20.jpg" width=270></td>
-  </tr> 
-  <tr>
-    <td><img src="results/yolov4_s/result_test_21.jpg" width=270></td>
-    <td><img src="results/yolov4_r/result_test_21.jpg" width=270></td>
-    <td><img src="results/yolov4_a/result_test_21.jpg" width=270></td>
-  </tr> 
 </table>
+
 
 <a href="#top">Back to top</a>
