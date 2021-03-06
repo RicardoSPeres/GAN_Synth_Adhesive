@@ -37,9 +37,9 @@ We leverage recent advances regarding GAN training in limited data regimes to **
 
 <table>
   <tr>
-    <td><img src="Figures/Movies/ganspace1.mp4" width=270></td>
-    <td><img src="Figures/Movies/ganspace2.mp4" width=270></td>
-    <td><img src="Figures/Movies/ganspace3.mp4" width=270></td>
+    <td><img src="Figures/Gifs/ganspace1.mp4" width=270></td>
+    <td><img src="Figures/Gifs/ganspace2.mp4" width=270></td>
+    <td><img src="Figures/Gifs/ganspace3.mp4" width=270></td>
   </tr>
 </table>
 
