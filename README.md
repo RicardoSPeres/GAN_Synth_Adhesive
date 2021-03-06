@@ -53,6 +53,6 @@ In this case the seeds used were 3845 and 55832, truncation values between -1.0 
   </tr>
 </table>
 
-<img src="Figures/results_det.jpg" width=810>
+<img src="Figures/results_det.jpg" width=1080>
 
 <a href="#top">Back to top</a>
