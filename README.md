@@ -1,6 +1,21 @@
 # Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection
 
-We leverage recent advances regarding GAN training in limited data regimes to **generate synthetic images of structural adhesive defects**. We demonstrate that these realistic synthetic samples can be **used to augmented scarce datasets and improve the performance of state-of-the-art object detection models** in the automated inspection of such adhesive applications.
+<table>
+  <tr>
+    <td><img src="Figures/SyntheticImages/image (141).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (24).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (5).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (534).png" width=270></td>
+  </tr>
+  <tr>
+    <td><img src="Figures/SyntheticImages/image (6).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (76).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (79).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (90).png" width=270></td>
+  </tr>
+</table>
+
+We leverage recent advances regarding GAN training in limited data regimes to **generate synthetic images of structural adhesive defects** such as the ones seen above. We demonstrate that these realistic synthetic samples can be **used to augmented scarce datasets and improve the performance of state-of-the-art object detection models** in the automated inspection of such adhesive applications.
 
 ## Citation 
 
