@@ -1,18 +1,45 @@
 # Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection
 
-We leverage recent advances regarding GAN training in limited data regimes to **generate synthetic images of structural adhesive defects**. We demonstrate that these realistic synthetic samples can be **used to augmented scarce datasets and improve the performance of state-of-the-art object detection models** in the automated inspection of such adhesive applications.
+We leverage recent advances regarding GAN training in limited data regimes to **generate synthetic images of structural adhesive defects** such as the ones seen below. We demonstrate that these realistic synthetic samples can be **used to augmented scarce datasets and improve the performance of state-of-the-art object detection models** in the automated inspection of such adhesive applications.
 
 ## Citation 
 
 > Peres, R.S.; Azevedo, M.; Araújo, S.O.; Guedes, M.; Miranda, F.; Barata, J. (2021). Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection. Applied Sciences, **Under Review**.
 
+<table>
+  <tr>
+    <td><img src="Figures/SyntheticImages/image (141).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (24).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (5).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (534).png" width=270></td>
+  </tr>
+  <tr>
+    <td><img src="Figures/SyntheticImages/image (6).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (76).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (79).png" width=270></td>
+    <td><img src="Figures/SyntheticImages/image (90).png" width=270></td>
+  </tr>
+</table>
+
 ## Generating Synthetic Defect Images with StyleGAN2-ADA
+### Visualizing Truncation Traversals
 
 <table>
   <tr>
     <td><img src="Figures/Gifs/introsys1024_1.gif" width=270></td>
-    <td><img src="results/see-q-product.jpg" width=270></td>
-    <td><img src="results/gluesim_demo2.gif" width=270></td>
+    <td><img src="Figures/Gifs/truncation-traversal-seed3845-start-1.0-stop3.0.gif" width=270></td>
+    <td><img src="Figures/Gifs/truncation-traversal-seed55832-start-1.0-stop3.0.gif" width=270></td>
+  </tr>
+</table>
+
+## Exploring the latent space with GANSpace
+### Visualizing the effect of random seeds with different truncation and scale values
+
+<table>
+  <tr>
+    <td><img src="Figures/Movies/ganspace1.mp4" width=270></td>
+    <td><img src="Figures/Movies/ganspace2.mp4" width=270></td>
+    <td><img src="Figures/Movies/ganspace3.mp4" width=270></td>
   </tr>
 </table>
 
