@@ -25,8 +25,7 @@ We leverage recent advances regarding GAN training in limited data regimes to **
 ### Visualizing Truncation Traversals
 
 <table>
-  <tr>
-    <td><img src="Figures/Gifs/introsys1024_1.gif" width=270></td>
+  <tr>    
     <td><img src="Figures/Gifs/truncation-traversal-seed3845-start-1.0-stop3.0.gif" width=270></td>
     <td><img src="Figures/Gifs/truncation-traversal-seed55832-start-1.0-stop3.0.gif" width=270></td>
   </tr>
@@ -39,7 +38,7 @@ We leverage recent advances regarding GAN training in limited data regimes to **
   <tr>
     <td><img src="Figures/Gifs/ganspace1.gif" width=270></td>
     <td><img src="Figures/Gifs/ganspace2.gif" width=270></td>
-    <td><img src="Figures/Gifs/ganspace3.gif" width=270></td>
+    <td><img src="Figures/Gifs/introsys1024_1.gif" width=270></td>
   </tr>
 </table>
 
