@@ -20,7 +20,11 @@ We leverage recent advances regarding GAN training in limited data regimes to **
 ## Citation 
 If you use our work or data in your research please cite: 
 
-> Peres, R.S.; Azevedo, M.; Araújo, S.O.; Guedes, M.; Miranda, F.; Barata, J. (2021). Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection. Applied Sciences.
+> Peres, R.S.; Azevedo, M.; Araújo, S.O.; Guedes, M.; Miranda, F.; Barata, J. (2021). Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection. Applied Sciences, 11(7), https://doi.org/10.3390/app11073086.
+
+Rhif, M., Ben Abbes, A., Farah, I. R., Martínez, B., & Sang, Y. (2019). Wavelet transform application for/in non-stationary time-series analysis: a review. Applied Sciences, 9(7), 1345.
+
+
 
 ## Dataset
 The dataset used in the paper can be found at:
