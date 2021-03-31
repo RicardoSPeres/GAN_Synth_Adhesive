@@ -22,7 +22,7 @@ Article: https://www.mdpi.com/2076-3417/11/7/3086
 ## Citation 
 If you use our work or data in your research please cite: 
 
-> Peres, R.S.; Azevedo, M.; Araújo, S.O.; Guedes, M.; Miranda, F.; Barata, J. (2021). Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection. Applied Sciences, 11(7), 3086, https://doi.org/10.3390/app11073086.
+> Peres, R.S.; Azevedo, M.; Araújo, S.O.; Guedes, M.; Miranda, F.; Barata, J. Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection. Appl. Sci. 2021, 11, 3086. https://doi.org/10.3390/app11073086.
 
 ## Dataset
 The dataset used in the paper can be found at:
