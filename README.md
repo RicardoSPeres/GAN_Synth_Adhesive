@@ -17,6 +17,8 @@
 
 We leverage recent advances regarding GAN training in limited data regimes to **generate synthetic images of structural adhesive defects** such as the ones seen below. We demonstrate that these realistic synthetic samples can be **used to augmented scarce datasets and improve the performance of state-of-the-art object detection models** in the automated inspection of such adhesive applications.
 
+Article: https://www.mdpi.com/2076-3417/11/7/3086
+
 ## Citation 
 If you use our work or data in your research please cite: 
 
