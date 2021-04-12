@@ -20,8 +20,19 @@ We leverage recent advances regarding GAN training in limited data regimes to **
 Article: https://www.mdpi.com/2076-3417/11/7/3086
 
 ## Citation 
-If you use our work or data in your research please cite: 
-
+If you use our data in your research or wish to refer to the results published in the paper, please use the following BibTeX entry.
+```bibtex
+@article{peres2021generative,
+  title={Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection},
+  author={Peres, Ricardo Silva and Azevedo, Miguel and Ara{\'u}jo, Sara Oleiro and Guedes, Magno and Miranda, F{\'a}bio and Barata, Jos{\'e}},
+  journal={Applied Sciences},
+  volume={11},
+  number={7},
+  pages={3086},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
 > Peres, R.S.; Azevedo, M.; Araújo, S.O.; Guedes, M.; Miranda, F.; Barata, J. Generative Adversarial Networks for Data Augmentation in Structural Adhesive Inspection. Appl. Sci. 2021, 11, 3086. https://doi.org/10.3390/app11073086.
 
 ## Dataset
